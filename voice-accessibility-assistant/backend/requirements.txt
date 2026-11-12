@@ -1,0 +1,13 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+openai-whisper
+torch
+torchaudio
+silero-vad
+librosa
+numpy
+soundfile
+python-dotenv
+pydantic-settings
